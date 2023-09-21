@@ -15,7 +15,7 @@ MarkupSafe==2.1.3
 numpy==1.25.2
 packaging==23.1
 platformdirs==3.10.0
-PyMonCtl==0.5
+PyMonCtl==0.7
 pywin32==306
 PyWinBox==0.5
 PyWinCtl==0.1
